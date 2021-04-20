@@ -1,0 +1,148 @@
+.gallery {
+  /* background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);*/
+  background-image: radial-gradient(73% 147%, #EADFDF 59%, #ECE2DF 100%), radial-gradient(91% 146%, rgba(255,255,255,0.50) 47%, rgba(0,0,0,0.50) 100%);
+  padding: 20px 10px;  
+}
+
+.gallery img {
+  width: 320px;
+  height: 320px;
+
+  background-color: white;
+  padding: 10px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.5);
+  cursor: pointer;
+
+  border-radius: 2%;
+}
+
+div.col {
+  padding-bottom:10px;
+}
+
+.container-lg {
+  text-align: center;
+}
+
+.welcome {
+  background-image: radial-gradient(73% 147%, #EADFDF 59%, #ECE2DF 100%), radial-gradient(91% 146%, rgba(255,255,255,0.50) 47%, rgba(0,0,0,0.50) 100%);
+  color:black;
+  padding: 15px;
+  
+}
+
+.caption {
+  color:black;
+}
+
+.gallery-modal img {
+  width: 100%;
+  height: 100%;
+}
+
+footer {
+  background-color:none;
+  color:black;
+  font-size: 80%;
+}
+
+li {
+  display: inline;
+  /*padding-right: 20px;*/
+  list-style-type: none;
+  padding-bottom:10px;
+}
+
+.headerLinks {
+  text-align: center;
+  font-size: 120%;
+}
+
+
+
+.headerLinks li a {
+
+}
+
+.contact-item {
+  font-weight: bold;
+}
+
+.link {
+  display:block;
+  overflow:auto;
+  
+}
+
+.footer-list {
+  text-align: center;
+}
+
+#root {
+  background-image: radial-gradient(73% 147%, #EADFDF 59%, #ECE2DF 100%), radial-gradient(91% 146%, rgba(255,255,255,0.50) 47%, rgba(0,0,0,0.50) 100%);
+  background-blend-mode: screen;
+  color: white;
+  padding-bottom:1%;
+  padding-top:1%;
+}
+
+.container {
+
+}
+
+html {
+  background-image: radial-gradient(73% 147%, #EADFDF 59%, #ECE2DF 100%), radial-gradient(91% 146%, rgba(255,255,255,0.50) 47%, rgba(0,0,0,0.50) 100%);
+}
+
+.my-info {
+  display:block;
+  text-decoration: underline;
+}
+
+#title {
+  color:black;
+  margin-bottom:-25px;
+  margin-left:-150px;
+  font-size: 150%;
+  display:none;
+}
+
+hr {
+  width: 102.5%;
+  margin-left: -14px;
+}
+
+nav ul {
+  margin:auto;
+}
+
+.big-sleep-container ul {
+  margin:0;
+  padding:0;
+}
+
+label {
+  color:black;
+}
+
+input {
+  display: block;
+}
+
+p {
+  color:black;
+}
+
+#request-title {
+  color: black;
+  text-decoration: underline;
+}
+
+.request-col {
+  padding-left: 150px;
+}
+
+.request-col ul li {
+  color:black;
+  display: block;
+}

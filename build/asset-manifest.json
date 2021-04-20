@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8b708a98.chunk.css",
+    "main.js": "/static/js/main.763ad2df.chunk.js",
+    "main.js.map": "/static/js/main.763ad2df.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cae4f8a5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cae4f8a5.js.map",
+    "static/js/2.2b17b71e.chunk.js": "/static/js/2.2b17b71e.chunk.js",
+    "static/js/2.2b17b71e.chunk.js.map": "/static/js/2.2b17b71e.chunk.js.map",
+    "static/js/3.f0a224e0.chunk.js": "/static/js/3.f0a224e0.chunk.js",
+    "static/js/3.f0a224e0.chunk.js.map": "/static/js/3.f0a224e0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8b708a98.chunk.css.map": "/static/css/main.8b708a98.chunk.css.map",
+    "static/js/2.2b17b71e.chunk.js.LICENSE.txt": "/static/js/2.2b17b71e.chunk.js.LICENSE.txt",
+    "static/media/a_mountain_surrounded_by_a_forest.342eae01.png": "/static/media/a_mountain_surrounded_by_a_forest.342eae01.png",
+    "static/media/a_tropical_beach_in_the_style_of_Claude_Monet.d647fbd0.png": "/static/media/a_tropical_beach_in_the_style_of_Claude_Monet.d647fbd0.png",
+    "static/media/crystalline-fractals-repeating-into-infinity.7ef1ff76.png": "/static/media/crystalline-fractals-repeating-into-infinity.7ef1ff76.png",
+    "static/media/flowers.da5aa3d7.png": "/static/media/flowers.da5aa3d7.png",
+    "static/media/fractals_made_from_fabric.0be4f2e0.png": "/static/media/fractals_made_from_fabric.0be4f2e0.png",
+    "static/media/human_emotions.e0246025.png": "/static/media/human_emotions.e0246025.png",
+    "static/media/many_colorful_fractals.86f47cbb.png": "/static/media/many_colorful_fractals.86f47cbb.png",
+    "static/media/many_fractals_in_the_style_of_dr_suess.ebf7cda4.png": "/static/media/many_fractals_in_the_style_of_dr_suess.ebf7cda4.png",
+    "static/media/many_fractals_in_the_style_of_van_gogh.1232165b.png": "/static/media/many_fractals_in_the_style_of_van_gogh.1232165b.png",
+    "static/media/marine_life.cd3af322.png": "/static/media/marine_life.cd3af322.png",
+    "static/media/our_solar_system_in_the_style_of_salvador_dali.371c23f2.png": "/static/media/our_solar_system_in_the_style_of_salvador_dali.371c23f2.png",
+    "static/media/rainforest.46efb9a2.png": "/static/media/rainforest.46efb9a2.png",
+    "static/media/spiral_galaxy.627d0922.png": "/static/media/spiral_galaxy.627d0922.png",
+    "static/media/surreal_imagination_of_the_human_mind.1b767fee.png": "/static/media/surreal_imagination_of_the_human_mind.1b767fee.png",
+    "static/media/surreal_representation_of_family.33c06d6a.png": "/static/media/surreal_representation_of_family.33c06d6a.png",
+    "static/media/the_fabric_of_spacetime_in_the_style_of_Salvador_Dali.04c40efc.png": "/static/media/the_fabric_of_spacetime_in_the_style_of_Salvador_Dali.04c40efc.png",
+    "static/media/vibrant_fractals.06482be8.png": "/static/media/vibrant_fractals.06482be8.png",
+    "static/media/volcano_in_the_style_of_claude_monet.dd4f69db.png": "/static/media/volcano_in_the_style_of_claude_monet.dd4f69db.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cae4f8a5.js",
+    "static/js/2.2b17b71e.chunk.js",
+    "static/css/main.8b708a98.chunk.css",
+    "static/js/main.763ad2df.chunk.js"
+  ]
+}
