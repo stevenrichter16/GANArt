@@ -7,8 +7,8 @@ function Footer() {
                 <span className="my-info">Contact</span>
                 <li><span className="contact-item">Github</span>
                     <span className="link">
-                        <a href="https://github.com/stevenrichter16/Portfolio">
-                         https://github.com/stevenrichter16/Portfolio
+                        <a href="https://github.com/stevenrichter16">
+                         https://github.com/stevenrichter16
                         </a>
                     </span>
                 </li>

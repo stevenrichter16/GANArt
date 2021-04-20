@@ -1,6 +1,5 @@
 import React from 'react';
 import Faq from './Faq';
-import Footer from './Footer';
 function Welcome() {
     return (
     <div className="welcome">

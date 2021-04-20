@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.8b708a98.chunk.css",
-    "main.js": "/static/js/main.763ad2df.chunk.js",
-    "main.js.map": "/static/js/main.763ad2df.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.cae4f8a5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.cae4f8a5.js.map",
-    "static/js/2.2b17b71e.chunk.js": "/static/js/2.2b17b71e.chunk.js",
-    "static/js/2.2b17b71e.chunk.js.map": "/static/js/2.2b17b71e.chunk.js.map",
-    "static/js/3.f0a224e0.chunk.js": "/static/js/3.f0a224e0.chunk.js",
-    "static/js/3.f0a224e0.chunk.js.map": "/static/js/3.f0a224e0.chunk.js.map",
+    "main.js": "/static/js/main.813d3ca6.chunk.js",
+    "main.js.map": "/static/js/main.813d3ca6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.673f1b07.js",
+    "runtime-main.js.map": "/static/js/runtime-main.673f1b07.js.map",
+    "static/js/2.339869a9.chunk.js": "/static/js/2.339869a9.chunk.js",
+    "static/js/2.339869a9.chunk.js.map": "/static/js/2.339869a9.chunk.js.map",
+    "static/js/3.be3992d2.chunk.js": "/static/js/3.be3992d2.chunk.js",
+    "static/js/3.be3992d2.chunk.js.map": "/static/js/3.be3992d2.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.8b708a98.chunk.css.map": "/static/css/main.8b708a98.chunk.css.map",
-    "static/js/2.2b17b71e.chunk.js.LICENSE.txt": "/static/js/2.2b17b71e.chunk.js.LICENSE.txt",
+    "static/js/2.339869a9.chunk.js.LICENSE.txt": "/static/js/2.339869a9.chunk.js.LICENSE.txt",
     "static/media/a_mountain_surrounded_by_a_forest.342eae01.png": "/static/media/a_mountain_surrounded_by_a_forest.342eae01.png",
     "static/media/a_tropical_beach_in_the_style_of_Claude_Monet.d647fbd0.png": "/static/media/a_tropical_beach_in_the_style_of_Claude_Monet.d647fbd0.png",
     "static/media/crystalline-fractals-repeating-into-infinity.7ef1ff76.png": "/static/media/crystalline-fractals-repeating-into-infinity.7ef1ff76.png",
@@ -32,9 +32,9 @@
     "static/media/volcano_in_the_style_of_claude_monet.dd4f69db.png": "/static/media/volcano_in_the_style_of_claude_monet.dd4f69db.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.cae4f8a5.js",
-    "static/js/2.2b17b71e.chunk.js",
+    "static/js/runtime-main.673f1b07.js",
+    "static/js/2.339869a9.chunk.js",
     "static/css/main.8b708a98.chunk.css",
-    "static/js/main.763ad2df.chunk.js"
+    "static/js/main.813d3ca6.chunk.js"
   ]
 }

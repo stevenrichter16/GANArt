@@ -13,7 +13,7 @@ function Request() {
 
     const addRequest = (event) => {
         event.preventDefault()
-        console.log("HII")
+        console.log("HI")
         setPhrases([... phrases, {phrase}])
     }
 

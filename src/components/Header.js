@@ -3,8 +3,6 @@ import Impressionist from './Impressionist';
 import Fractal from './Fractal';
 import Welcome from './Welcome';
 import Surreal from './Surreal'
-import Request from './Request'
-
 import { Route, Link, BrowserRouter as Router } from 'react-router-dom';
 
 function Header() {

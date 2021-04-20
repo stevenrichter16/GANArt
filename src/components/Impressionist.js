@@ -1,6 +1,5 @@
 import React from 'react'
 import Image from './Image'
-
 import impressionist_1 from '../images/impressionist/a_tropical_beach_in_the_style_of_Claude_Monet.png'
 import impressionist_2 from '../images/impressionist/volcano_in_the_style_of_claude_monet.png'
 import impressionist_3 from '../images/impressionist/a_mountain_surrounded_by_a_forest.png'
