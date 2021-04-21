@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 ## To Left Field Labs:
 
-Using GPT-3, I am also working on a website that generates fake product names, and subsequent descriptions for that product. Here are a couple example outputs I generated while filling out the application for the Junior to Mid-Level Front End Developer position.
+Using GPT-3 I am also working on a website that generates fake product names, and subsequent descriptions for that product. Here are a couple example outputs I generated while filling out the application for the Junior to Mid-Level Front End Developer position.
 
   **Product Name:**
   Lite-Touch
