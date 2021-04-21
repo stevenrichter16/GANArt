@@ -30,4 +30,5 @@ Using GPT-3, I am also working on a website that generates fake product names, a
   **Long Description:**
   When you misplace something, there's no reason to delay for even a second – especially if it's important. The Newton is a Bluetooth key finder that pairs with your iPhone or Android so you can use the free app to find anything you've misplaced in seconds! It has an ultra-precise location system and works even if it is in another room or buried under junk mail! Simply attach the device to any keyring and download the free app – available for both Android and iPhone – on Google Play or Apple's App Store. You'll never have to worry about losing your keys, laptop, or purse again!
   
-At Left Field Labs I will bring the technical skills and creativity that are essential for your business.
+  
+This is just the start of my long-term goal of facilitating creativity with technology. As displayed here, I will bring the creativity, insight, and technical skills essential for your business solutions.
