@@ -8,7 +8,7 @@ The name GANArt comes from the fact that all the images on the website were gene
 Disclaimer: I need to clean up and document this code. The quality of this code does not reflect my overall skillset as a programmer.
 _________________________________________________________________________________________________________________________________________________________________________________
 
-To Left Field Labs:
+## To Left Field Labs:
 
 Using GPT-3, I am also working on a website that generates fake product names, and subsequent descriptions for that product. Here are a couple example outputs I generated while filling out the application for the Junior to Mid-Level Front End Developer position.
 
