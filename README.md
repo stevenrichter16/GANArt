@@ -1,4 +1,4 @@
-# ganart-io
+# GANArt
 
 https://ganart-io.web.app/
 
