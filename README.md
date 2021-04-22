@@ -33,4 +33,4 @@ These products were generated on the spot and highlight the formidable nature of
 
 **In Summary**
 
-My long-term goal is to facilitate creativity with technology, and vice versa. As I displayed here, I will bring the originality, insight, and innovation essential for your business solutions and company mission.
+My long-term goal is to facilitate creativity with technology, and vice versa. As displayed here, I will bring the originality, insight, and innovation essential for your business solutions and company mission.
