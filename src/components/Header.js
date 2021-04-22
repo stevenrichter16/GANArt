@@ -5,8 +5,18 @@ import Welcome from './Welcome';
 import Surreal from './Surreal'
 import { Route, Link, BrowserRouter as Router } from 'react-router-dom';
 
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+* <Header>:  - contains the navbar, which contains routes   
+*              to each main component of the application
+*
+*            - gets loaded from <App>
+*               
+* @args:     none
+*
+* @return:   1) a list of navagation routes that direct
+*               users to the appropriate components               
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 function Header() {
-
 return (
     <Router>
         <div className="container"> 

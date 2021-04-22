@@ -7,7 +7,17 @@ import impressionist_4 from '../images/impressionist/marine_life.png'
 import impressionist_5 from '../images/impressionist/spiral_galaxy.png'
 import impressionist_6 from '../images/impressionist/rainforest.png'
 
-
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+* <Impressionist>: - contains and loads all impressionist-
+*                    themed images
+*
+*                  - gets loaded from <Header>
+*                     
+* @args:           none
+*
+* @return:         1) six <Image> components, each with a source
+*                     path and caption describing the image
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 function Impressionist() {
     return (
         <section className="gallery min-vh-100">

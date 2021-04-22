@@ -1,5 +1,19 @@
 import React from 'react';
 import Faq from './Faq';
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * *
+* <Welcome>: - displays each <Faq>, as well as links
+*              to resources for Big Sleep
+*
+*            - gets loaded from <Header>
+*
+* @args:     none
+*
+* @return:   1) each <Faq> and its respective question
+*               and answer
+
+*            2) a list of resources for Big Sleep
+* * * * * * * * * * * * * * * * * * * * * * * * * * * */
 function Welcome() {
     return (
     <div className="welcome">

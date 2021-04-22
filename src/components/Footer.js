@@ -1,5 +1,16 @@
 import React from 'react'
 
+/* * * * * * * * * * * * * * * * * * * * * * * *  
+* <Footer>: - contains the contact information 
+*             for myself
+*                
+*           - gets loaded from <App>
+*             
+* @args:    none
+*
+* @return:  1) a list with my github url, linkedin
+*              url, and email address
+* * * * * * * * * * * * * * * * * * * * * * * * */
 function Footer() {
     return (
         <footer>

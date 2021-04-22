@@ -7,6 +7,18 @@ import surreal_4 from '../images/surreal/surreal_representation_of_family.png'
 import surreal_5 from '../images/surreal/our_solar_system_in_the_style_of_salvador_dali.png'
 import surreal_6 from '../images/surreal/flowers.png'
 
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+* <Surreal>: - contains and loads all surrealist-themed
+*              images
+*
+*            - gets loaded from <Header>
+*                     
+* @args:     none
+*
+* @return:   1) six <Image> components, each with a source
+*               path and caption describing the image
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
 function Surreal() {
     return (
         <section className="gallery min-vh-100">

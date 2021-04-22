@@ -1,3 +1,5 @@
+/* Currently not implemented */
+
 import React, { useState, useEffect } from 'react'
 import RequestItem from './RequestItem'
 
@@ -5,19 +7,30 @@ function Request() {
     const [phrase, setPhrase] = useState("")
     const [phrases, setPhrases] = useState([])
 
+    /*
+    * handleInput: sets te current phrase to
+    *              the user-entered phrase
+    */
     const handleInput = (event) => {
         event.preventDefault()
         console.log(event.target.value)
         setPhrase(event.target.value)
     }
 
+    /*
+    * addRequest: adds the request phrase to 
+    *             the array of requests phrases
+    *             
+    */
     const addRequest = (event) => {
         event.preventDefault()
-        console.log("HI")
+        console.log(event)
         setPhrases([... phrases, {phrase}])
     }
 
-    // useEffect hook for updating the phrases array
+    /*
+    * I forgot what this is supposed to do
+    */
     useEffect( () => {
         console.log(phrases)
     }, [phrases])

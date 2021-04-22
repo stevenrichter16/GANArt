@@ -8,30 +8,18 @@ import fractal_4 from '../images/fractal/many_fractals_in_the_style_of_dr_suess.
 import fractal_5 from '../images/fractal/fractals_made_from_fabric.png'
 import fractal_6 from '../images/fractal/vibrant_fractals.png'
 
-import Modal from "react-bootstrap/Modal"
-import ModalBody from "react-bootstrap/ModalBody"
-import ModalHeader from "react-bootstrap/ModalHeader"
-import ModalFooter from "react-bootstrap/ModalFooter"
-import { ModalTitle } from 'react-bootstrap'
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+* <Fractal>: - contains and loads all fractal-themed images
+* 
+*            - gets loaded from <Header> 
+*           
+* @args:     none
+*
+* @return:   1) six <Image> components, each with a source
+*               path and caption describing the image
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
 function Fractal() {
-    const [isOpen, setIsOpen] = React.useState(false);
-
-    const showModal = function() {
-        console.log("showMdoalddd")
-        /*
-        console.log(document.getElementsByClassName('gallery-item').src)
-        document.getElementsByClassName('gallery-item').src = "poop"
-        //console.log("hi")
-        console.log(e.target.src)
-        */
-        setIsOpen(true)
-    }
-
-    const hideModal = function() {
-        setIsOpen(false);
-    }
-
     return (
         <section className="gallery min-vh-100">
             <script src="../src/bootstrap.bundle.min.js"></script>
@@ -80,7 +68,14 @@ function Fractal() {
 
 export default Fractal
 
-/*
+
+/* Implement later
+
+// import Modal from "react-bootstrap/Modal"
+// import ModalBody from "react-bootstrap/ModalBody"
+// import ModalHeader from "react-bootstrap/ModalHeader"
+// import ModalFooter from "react-bootstrap/ModalFooter"
+// import { ModalTitle } from 'react-bootstrap'
 
 <button onClick={showModal}>Display Modal</button>
                 <Modal show={isOpen} onHide={hideModal}>
@@ -94,4 +89,15 @@ export default Fractal
                     </ModalFooter>
                 </Modal>
 
-                */
+ const [isOpen, setIsOpen] = React.useState(false);
+
+    const showModal = function() {
+        console.log(e.target.src)
+        
+        setIsOpen(true)
+    }
+
+    const hideModal = function() {
+        setIsOpen(false);
+    }
+*/

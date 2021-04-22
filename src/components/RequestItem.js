@@ -1,3 +1,5 @@
+/* Currently not implemented */
+
 import React from 'react'
 
 function RequestItem(props) {
