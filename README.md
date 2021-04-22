@@ -30,4 +30,4 @@ With the use of GPT-3, a machine learning model developed by OpenAI, I am develo
 ##  
 **In Summary**
 
-My long-term goal, to facilitate creativity with technology, has only just started. As displayed here, I will bring the originality, insight, and innovation essential for your business solutions.
+My long-term goal, to facilitate creativity with technology, has only just started. As I displayed here, I will bring the originality, insight, and innovation essential for your business solutions.
