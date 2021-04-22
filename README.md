@@ -3,9 +3,7 @@
 https://ganart-io.web.app/
 
 This was the first website I developed with React.js. Since then I have developed a few more but have yet to put the code on GitHub.
-The name GANArt comes from the fact that all the images on the website were generated with a machine learning algorithm knows as a generative adversarial network (GAN).
-
-Disclaimer: I need to clean up and document this code. The quality of this code does not reflect my overall skillset as a programmer.
+The name GANArt comes from the fact that all the images on this website were generated with a machine learning algorithm knows as a generative adversarial network (GAN).
 _________________________________________________________________________________________________________________________________________________________________________________
 
 ## To Left Field Labs:
@@ -31,4 +29,4 @@ With the use of GPT-3, a machine learning model developed by OpenAI, I am develo
   When you misplace something, there's no reason to delay for even a second – especially if it's important. The Newton is a Bluetooth key finder that pairs with your iPhone or Android so you can use the free app to find anything you've misplaced in seconds! It has an ultra-precise location system and works even if it is in another room or buried under junk mail! Simply attach the device to any keyring and download the free app – available for both Android and iPhone – on Google Play or Apple's App Store. You'll never have to worry about losing your keys, laptop, or purse again!
     
 ##
-My long-term goal, to facilitate creativity with technology, has only just started. As displayed here, I will bring the originality, insight, and technical skills essential for your business solutions.
+My long-term goal, to facilitate creativity with technology, has only just started. As displayed here, I will bring the originality, insight, and innovation essential for your business solutions.
