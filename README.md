@@ -11,7 +11,7 @@ ________________________________________________________________________________
 ## To Left Field Labs:
 
 Using another machine learning model, GPT-3, I am working on a website that generates fake product names and subsequent descriptions for that product. Here are a couple example outputs I generated while filling out the application for the Junior to Mid-Level Front End Developer position.
-
+```
   **Product Name:**
   Lite-Touch
 
@@ -29,6 +29,7 @@ Using another machine learning model, GPT-3, I am working on a website that gene
 
   **Long Description:**
   When you misplace something, there's no reason to delay for even a second – especially if it's important. The Newton is a Bluetooth key finder that pairs with your iPhone or Android so you can use the free app to find anything you've misplaced in seconds! It has an ultra-precise location system and works even if it is in another room or buried under junk mail! Simply attach the device to any keyring and download the free app – available for both Android and iPhone – on Google Play or Apple's App Store. You'll never have to worry about losing your keys, laptop, or purse again!
+```
   
   
 My long-term goal, to facilitate creativity with technology, has only just started. As displayed here, I will bring the originality, insight, and technical skills essential for your business solutions.
