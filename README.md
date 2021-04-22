@@ -28,6 +28,9 @@ With the use of GPT-3, a machine learning model developed by OpenAI, I am also d
   **Long Description:**
   When you misplace something, there's no reason to delay for even a second – especially if it's important. The Newton is a Bluetooth key finder that pairs with your iPhone or Android so you can use the free app to find anything you've misplaced in seconds! It has an ultra-precise location system and works even if it is in another room or buried under junk mail! Simply attach the device to any keyring and download the free app – available for both Android and iPhone – on Google Play or Apple's App Store. You'll never have to worry about losing your keys, laptop, or purse again!
 ##  
+
+These products were generated on the spot and highlight the formidable nature of GPT-3's creative potential. Additionally, this use case provides a glimpse at the future potential of machine learning in areas long seen as inpenetrable by AI. Art, culture, and the overall human experience will be influenced by algorithms with more precision and pervasiveness than currently seen. Though present-day algorithms have a reputation for swaying thoughts and behaviors without consent, and no doubt will in the future, powerful technologies on the order of GPT-3 can be democratized and given to everyone for their own personal persuits. When this era of accessible AI emerges, the playing field will level and the human experience will be rippend for significant progress.
+
 **In Summary**
 
-My long-term goal, to facilitate creativity with technology, has only just started. As I displayed here, I will bring the originality, insight, and innovation essential for your business solutions.
+My long-term goal is to facilitate creativity with technology, and vice versa. As I displayed here, I will bring the originality, insight, and innovation essential for your business solutions and company mission.
