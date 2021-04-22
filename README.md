@@ -21,11 +21,10 @@ Using another machine learning model, GPT-3, I am working on a website that gene
   _Lite-Touch is a new kind of flat panel display that eliminates the need for a power cord._
 
   **Long Description:**
-  
-  _Using groundbreaking technology, Lite-Touch displays are powered by indoor lighting and can be used in any environment. For example, using our patented “LightSwitch”  technology, Lite-Touch displays can be powered by the sun indoors or on a window sill. Plus, they do not require batteries or any other power source! Because there are no cords, you can easily move your board from room to room or even take it outside to use as an all weather display and bulletin board. The bottom line is that there has never been an easier way to display information so inexpensively!_
+   _Using groundbreaking technology, Lite-Touch displays are powered by indoor lighting and can be used in any environment. For example, using our patented “LightSwitch”  technology, Lite-Touch displays can be powered by the sun indoors or on a window sill. Plus, they do not require batteries or any other power source! Because there are no cords, you can easily move your board from room to room or even take it outside to use as an all weather display and bulletin board. The bottom line is that there has never been an easier way to display information so inexpensively!_
 
   **Product Name:**
-  _Newton
+  _Newton_
 
   **Short Description:**
   _Never lose your keys again! Newton is a Bluetooth key finder that pairs with your smartphone so you can find your keys from anywhere using the free app.
