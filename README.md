@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 ## To Left Field Labs:
 
-With the use of GPT-3, a machine learning model developed by OpenAI, I am also developing an application that generates fake product names and coinciding descriptions for those products. Here are a couple examples I generated while filling out the application for the Junior to Mid-Level Front End Developer position.
+With the use of GPT-3, a machine learning model developed by OpenAI, I am also developing an application that generates fake product names and coinciding descriptions for those products. Here are a couple examples I generated while filling out the application for the Junior/Mid-Level Front End Developer position.
 ##
   **Product Name:**
   Lite-Touch
