@@ -1,6 +1,5 @@
 import React from 'react'
 import Image from './Image'
-
 import fractal_1 from '../images/fractal/many_colorful_fractals.png'
 import fractal_2 from '../images/fractal/many_fractals_in_the_style_of_van_gogh.png'
 import fractal_3 from '../images/fractal/crystalline-fractals-repeating-into-infinity.png'
